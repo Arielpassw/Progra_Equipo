@@ -70,7 +70,7 @@ public class Main {
                 System.out.println("Error, "+ex.getMessage());
             }
         }while(option!=7);
-// agregar excepciones
+// agregar excepciones ..
     }
     private static void registrarCandidatas() throws DatoInvalidoException{
 
