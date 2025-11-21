@@ -54,5 +54,5 @@ public abstract class Candidata {
         this.puntajeJurado = puntajeJurado;
     }
 
-    public abstract void mostrarDetalles();
+    public abstract void mostrarDetalles(); // //
 }
